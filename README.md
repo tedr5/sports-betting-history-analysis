@@ -50,6 +50,15 @@ The output CSV file contains the following columns:
 - **Reference**: Unique reference number for the bet.
 - **Total Stake**: Amount wagered.
 - **Gains**: Total winnings or losses.
+- 
+You can read the generated CSV file and perform analyses, with results printed to the console, describing the following metrics:
 
-Statistics will be printed to the console, summarizing your betting activity.
+- **Nombre de paris effectués depuis inscription**: The total number of bets placed since registration.
+- **Mise en moyenne**: The average stake per bet.
+- **Moyenne gains**: The average gains from the bets.
+- **Total argent misé**: The total amount of money wagered.
+- **Total argent gagné**: The total amount of money won.
+- **Balance gains - mise**: The balance calculated by subtracting the total stakes from the total winnings.
+
+These statistics will provide you with insights into your betting activity and overall performance.
 
