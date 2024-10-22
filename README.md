@@ -50,7 +50,7 @@ The output CSV file contains the following columns:
 - **Reference**: Unique reference number for the bet.
 - **Total Stake**: Amount wagered.
 - **Gains**: Total winnings or losses.
-- 
+
 You can read the generated CSV file and perform analyses, with results printed to the console, describing the following metrics:
 
 - **Nombre de paris effectués depuis inscription**: The total number of bets placed since registration.
