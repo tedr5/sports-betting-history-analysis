@@ -13,7 +13,7 @@ A personal project to summarize sports betting history for personal analysis usi
 Clone the repository:
 
 ```bash
-  git clone https://github.com/yourusername/sports-betting-history-summary.git
+  git clone https://github.com/tedr5/sports-betting-history-analysis.git
 ```
 
 Install the required libraries:
@@ -38,7 +38,7 @@ The project utilizes:
 
  Run the script to fetch and summarize your betting history. Ensure you fill in your username, password, and date of birth in the script before executing.
 ```bash
-python sports_betting_summary.py
+python uniautomata.py
 ```
 After running the script, the output will be saved to `unibet.csv` on your desktop.
 
